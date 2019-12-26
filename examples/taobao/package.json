@@ -1,0 +1,13 @@
+{
+  "name": "@appilot/taobao",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "appilot-plugin": "1.0.0"
+  }
+}
