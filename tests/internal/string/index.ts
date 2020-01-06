@@ -1,5 +1,5 @@
 import {PluginRegistry} from "../../../src";
-import { InputSchema } from "../../../src/json_schema";
+import { InputSchema } from "../../../src";
 
 export const SPLIT_INPUT_SCHEMA: InputSchema = {
     type: "object",
